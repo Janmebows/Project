@@ -2,7 +2,26 @@
 	-	for multiplayer purposes allow to change targetting highlight colour either:
 		- a setting that you can change
 		- based on the equipment you're using
-- 
+		- Maybe change colour for each party member and slight change of targeting reticle design for different class of weapon/equipment
+
+-	Rather then set 'classes' for characters could have weapon skills/masteries
+	-	let players choose what weapon they use and dont lock them to it
+	-	build mastery of a weapon through use and 'training' (<- training per say may be a bit iffy idk)
+	-	if a player wants to switch weapon they can, however include a punishment for other stats not being used
+	-	e.g. a player uses weapon A for a while, builds up a bit of skill, switches to weapon B, building different skills, causing other non-used skills to decay
+	-	encourages use of weapons previously used rather than farm and max out and forget about it
+	-	Could be annoying to some if coming back to Weapon A after using Weapon B for a long period of time
+		-	^ Combat this with accelerated skill earning when revisiting previously used weapon
+
+-	Definitely gotta have a marriage system, gotta get dem waifus
+
+-	'everyday life' skills (maybe)
+	-	If we're planning on implementing normal skills (such as cooking, smithing, etc) include minigame of sort
+	-	(Rather than just a number going up for clicking the 'cook' button)
+	-	instead of minigame [MAYBE A BIT TOO AMBITIOUS] 
+		-	For cooking for example, reward places with bonux skill XP for experimenting with new, unknown ingredients, creating new meals with added bonuses (or whatever purpose food serves ingame)
+
+
 
 
 NOTES
