@@ -1,8 +1,24 @@
--	Super duper targetting system that leaves Andrew aroused
-	-	for multiplayer purposes allow to change targetting highlight colour either:
-		- a setting that you can change
-		- based on the equipment you're using
-		- Maybe change colour for each party member and slight change of targeting reticle design for different class of weapon/equipment
+	
+-	Combat Ideas
+	-	Attack Skill ideas
+		-	Blink/dash - tp from a to b (short range)
+		-	Magic weapon throw
+		-	Buff weapon
+			-	Enhance speed
+			-	Add Element
+			-	
+		-	'Stuck' weapon 
+			- explodes (or something) in enemy (see below)
+	-	Attacks Stick/bounce on larger enemies
+		-	Based on weight/size/armour/toughness of skin(?), type of weapon, quality of swing
+		-	
+	-	Super duper targetting system that leaves Andrew aroused
+		-	for multiplayer purposes allow to change targetting highlight colour either:
+			- a setting that you can change
+			- based on the equipment you're using
+			- Maybe change colour for each party member and slight change of targeting reticle design for different class of weapon/equipment
+	-	Appendage System
+		-Execute on weakened enemies (after disabling arms/legs)
 
 -	Rather then set 'classes' for characters could have weapon skills/masteries
 	-	let players choose what weapon they use and dont lock them to it
@@ -16,12 +32,14 @@
 -	Definitely gotta have a marriage system, gotta get dem waifus
 
 -	'everyday life' skills (maybe)
+	-	IF WE DO THIS IT WILL BE AFTER LITERALLY EVERYTHING ELSE
 	-	If we're planning on implementing normal skills (such as cooking, smithing, etc) include minigame of sort
 	-	(Rather than just a number going up for clicking the 'cook' button)
 	-	instead of minigame [MAYBE A BIT TOO AMBITIOUS] 
 		-	For cooking for example, reward places with bonux skill XP for experimenting with new, unknown ingredients, creating new meals with added bonuses (or whatever purpose food serves ingame)
+	
 
-
+	
 
 
 NOTES
