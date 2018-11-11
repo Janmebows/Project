@@ -1,6 +1,30 @@
-Super duper targetting system that leaves Andrew aroused
+-	Super duper targetting system that leaves Andrew aroused
+	-	for multiplayer purposes allow to change targetting highlight colour either:
+		- a setting that you can change
+		- based on the equipment you're using
 - 
--  for multiplayer purposes allow to change targetting highlight colour either:
-	- a setting that you can change
-	- based on the equipment you're using
-=	
+
+
+NOTES
+List of Useful classes (if i haven't added one, please add it for me)
+Ordered by usefulness and somewhat Heirarchically
+-	UObject - BASE CLASS
+	-	AActor - placable object
+		-	AActorComponent - component on the actor (controls/rendering/mechanics)
+		-	APawn - players/creatures (controllable)
+			-	ACharacter - player/creature with inbuilt movement (may use this or pawn not sure)
+			-	APlayerController - object for enabling control of a pawn
+
+
+
+
+
+
+
+-	AGameWorldBase - Defines the game
+-	AWorldSettings - Settings for the world
+-	AHUD - allows usage of heads up display (will fiddle a little now and a lot later)
+-	APlayerState - multiplayer replicated information of the player (name,gear,etc.)
+-	ASceneComponent - 
+- 	ADecalActor	- renders marks on walls (includes bullet decals, arrows, etc.)
+
